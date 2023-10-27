@@ -1,6 +1,6 @@
 ![](/img/banner.gif)
 
-## Hello World ! I am Gustavo Marques 👋
+## I am Gustavo Marques 👋
 
 ### Full Stack Developer | FIAP | Junior 
 
