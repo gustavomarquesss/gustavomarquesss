@@ -1,4 +1,4 @@
-![](/img/banner.jpg)
+![](/img/banner.gif)
 
 ## Hello World ! I am Gustavo Marques 👋
 
