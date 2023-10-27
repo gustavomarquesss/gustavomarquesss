@@ -10,7 +10,6 @@
 
 ## 🤝 Follow my work on
 
-[comment]: <> (Change the 'alt' and link bellow. Follow me neither ;))
 
 [<img align="left" alt="brunomarcosluz | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavo-marquessss/)
 [<img align="left" alt="brunomarcosluz | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gu.marquess_/)
@@ -18,7 +17,6 @@
 
 ## 👨‍💻 Languages and Tools
 
-[comment]: <> (Here you will change the badges with you favorite languages, tools and skills. Change the reference in the final url: '/html/html.png' for example.)
 
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
