@@ -1,10 +1,10 @@
-![Alt text] (/img/banner.jpg)
+![](/img/banner.jpg)
 
 ## Hello World ! I am Gustavo Marques 👋
 
 ### Full Stack Developer | FIAP | Junior 
 
-- 🧐 I am currently looking for an opportunity in the development area(https://www.linkedin.com/in/gustavo-marquessss/)
+- 🧐 I am currently looking for an opportunity in the development [area](https://www.linkedin.com/in/gustavo-marquessss/)
 - 🌱 I am currently specializing in Internet systems development.
 - 📫 How to reach me: [@gustavomarquessss](https://www.linkedin.com/in/gustavo-marquessss/)
 
