@@ -21,7 +21,7 @@
 ## 👨‍💻 Languages and Tools
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,php,bootstrap,figma,c#,react" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,php,bootstrap,figma,c#,react,dotnet" />
   </a>
   
 <br>
